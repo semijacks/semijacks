@@ -40,6 +40,8 @@
 
 ---
 
+<img align="left" alt="semijacks' Github Stats" src="https://github-readme-stats.vercel.app/api?username=semijacks&show_icons=true&hide_border=true"/>
+
 [website]: https://semiloreidowu.netlify.app
 [twitter]: https://twitter.com/IAmSemijacks
 [instagram]: https://www.instagram.com/iamsemijacks
