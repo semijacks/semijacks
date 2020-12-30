@@ -42,7 +42,7 @@
 
 <img align="left" alt="semijacks' Github Stats" src="https://github-readme-stats.vercel.app/api?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=onedark"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semijacks)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="semijacks' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=onedark"/>
 
 [website]: https://semiloreidowu.netlify.app
 [twitter]: https://twitter.com/IAmSemijacks
