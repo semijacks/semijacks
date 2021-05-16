@@ -47,7 +47,7 @@
 <img align="left" alt="semijacks' Pinned Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=semijacks&repo=apollo-server-express-template&show_icons=true&hide_border=true&count_private=true&theme=onedark"/>
 
 [website]: https://semiloreidowu.vercel.app
-[twitter]: https://twitter.com/IAmSemijacks
+[twitter]: https://twitter.com/SemiloreId
 [instagram]: https://www.instagram.com/iamsemijacks
 [linkedin]: https://www.linkedin.com/in/semilore-idowu-963518182
 [manutd]: https://en.wikipedia.org/wiki/Manchester_United_F.C.
