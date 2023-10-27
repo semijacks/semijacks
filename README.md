@@ -15,17 +15,10 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://semiloreidowu.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://semiloreidowu.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/SemiloreId#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/SemiloreId#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/semijacks#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/semijacks#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/iamsemijacks#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/iamsemijacks#gh-dark-mode-only)
+[<img align="left" alt="semilore.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="semijacks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="semijacks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="semijacks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
