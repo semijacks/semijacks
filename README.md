@@ -1,8 +1,8 @@
 <p align="center">
-   <a href="https://twitter.com/intent/follow?screen_name=SemiloreId" alt="Twitter">
+   <a href="https://twitter.com/intent/follow?screen_name=SemiloreId" target="_blank" alt="Twitter">
         <img src="https://img.shields.io/twitter/follow/SemiloreId?style=for-the-badge&logo=X&labelColor=%23000000&color=%23000000" />
    </a>
-   <a href="https://www.linkedin.com/in/semijacks" alt="LinkedIn">
+   <a href="https://www.linkedin.com/in/semijacks" target="_blank" alt="LinkedIn">
         <img src="https://img.shields.io/badge/linkedin-%25230077B5.svg?style=for-the-badge&logo=LinkedIn&labelColor=%230a66c2&color=%230a66c2" />
    </a>
 </p>
