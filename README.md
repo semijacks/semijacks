@@ -3,7 +3,7 @@
 
 --- 
 
-### Hi there, I'm Semilore - aka [Semijacks]][website] 👋
+### Hi there, I'm Semilore - aka [Semijacks][website] 👋
 
 ## I'm a fullstack web and mobile developer and general tech enthusiast!!
 
