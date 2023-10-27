@@ -1,10 +1,11 @@
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SemiloreId?style=for-the-badge&logo=X&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/linkedin-%25230077B5.svg?style=for-the-badge&logo=LinkedIn&labelColor=%230a66c2&color=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsemijacks%2F)
 
+--- 
 
 ### Hi there, I'm Semilore - aka [Semijacks]][website] 👋
 
-## I'm a Student, Developer, and general tech enthusiast!!
+## I'm a Fullstack Web and Mobile Developer, and general tech enthusiast!!
 
 - 🔭 Currently building a fun Admin dashboard using ReactJS
 - 🌱 I’m currently leveling up my skills as much as possible 🤣
