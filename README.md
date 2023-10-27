@@ -1,5 +1,7 @@
+<p align="center">
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SemiloreId?style=for-the-badge&logo=X&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/linkedin-%25230077B5.svg?style=for-the-badge&logo=LinkedIn&labelColor=%230a66c2&color=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsemijacks%2F)
+</p>
 
 --- 
 
