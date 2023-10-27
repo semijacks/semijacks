@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Semilore - aka [Semijacks]][website] 👋
 
-## I'm a Fullstack Web and Mobile Developer, and general tech enthusiast!!
+## I'm a fullstack web and mobile developer and general tech enthusiast!!
 
 - 🔭 Currently building a fun Admin dashboard using ReactJS
 - 🌱 I’m currently leveling up my skills as much as possible 🤣
