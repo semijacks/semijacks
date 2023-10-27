@@ -1,3 +1,5 @@
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:SemiloreId)
+
 ### Hi there, I'm Semilore - aka [SemijacksDevs][website] 👋
 
 ## I'm a Student, Developer, and general tech enthusiast!!
