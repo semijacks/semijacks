@@ -49,14 +49,10 @@
 <img align="left" alt="semijacks' Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
 </details>
 
---- 
-
 <details>
   <summary>:zap: Top Language Stats</summary>
 <img align="left" alt="semijacks' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact"/>
 </details>
-
---- 
 
 <details>
   <summary>:zap: Github Stats</summary>
