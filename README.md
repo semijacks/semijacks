@@ -46,19 +46,18 @@
 ---
 
 <details>
-  <summary>:zap: Wakatime Stats</summary>
-<img align="left" alt="semijacks' Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
+  <summary>:zap: Github Stats</summary>
+<img align="left" alt="semijacks' Github Stats" src="https://github-readme-stats-eta-seven-47.vercel.app/api?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact"/>
 </details>
-
 <details>
   <summary>:zap: Top Language Stats</summary>
 <img align="left" alt="semijacks' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact"/>
 </details>
-
 <details>
-  <summary>:zap: Github Stats</summary>
-<img align="left" alt="semijacks' Github Stats" src="https://github-readme-stats-eta-seven-47.vercel.app/api?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact"/>
+  <summary>:zap: Wakatime Stats</summary>
+<img align="left" alt="semijacks' Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
 </details>
+
 
 
 
