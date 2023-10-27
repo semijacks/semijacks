@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/linkedin-%25230077B5.svg?style=for-the-badge&logo=LinkedIn&labelColor=%230a66c2&color=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsemijacks%2F)
 
 
-### Hi there, I'm Semilore - aka [SemijacksDevs][website] 👋
+### Hi there, I'm Semilore - aka [Semijacks]][website] 👋
 
 ## I'm a Student, Developer, and general tech enthusiast!!
 
