@@ -1,4 +1,4 @@
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:SemiloreId)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SemiloreId)
 
 ### Hi there, I'm Semilore - aka [SemijacksDevs][website] 👋
 
