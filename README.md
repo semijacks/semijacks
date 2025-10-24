@@ -13,9 +13,9 @@
 
 ## I'm a fullstack web and mobile developer and general tech enthusiast!!
 
-- 🔭 Currently building a fun Admin dashboard using ReactJS
+- 🔭 Currently working as a fullstack engineer @cogartstudio
 - 🌱 I’m currently leveling up my skills as much as possible 🤣
-- 👯 I’m looking to collaborate with other content Developers, possibly begin a startup
+- 👯 I’m looking to collaborate with other Software Engineers, possibly begin a startup
 - 🥅 Goals: Contribute more to Open Source projects and gain more working experience
 - ⚡ Fun fact: I love to watch Soccer and am a die hard [manutd] fan
 
@@ -61,11 +61,11 @@
 <img align="left" alt="semijacks' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical&layout=compact"/>
 &nbsp;&nbsp;
 </details>
-<details>
+<!-- <details>
   <summary>:zap: Wakatime Stats</summary>
 <img align="left" alt="semijacks' Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=semijacks&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
 &nbsp;&nbsp;
-</details>
+</details> -->
 
 
 
