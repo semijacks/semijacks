@@ -75,4 +75,4 @@
 [instagram]: https://www.instagram.com/iamsemijacks
 [linkedin]: https://www.linkedin.com/in/semijacks
 [manutd]: https://en.wikipedia.org/wiki/Manchester_United_F.C.
-[@cogartstudio]: https://github.com/cogartstudio
+[@cogartstudio]: https://github.com/cogart-studio
