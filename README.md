@@ -9,11 +9,11 @@
 
 --- 
 
-### Hi there, I'm Semilore - aka [Semijacks][website] 👋
+### Hi there, I'm Semilore👋
 
-## I'm a fullstack web and mobile developer and general tech enthusiast!!
+## I'm a fullstack engineer and general tech enthusiast!!
 
-- 🔭 Currently working as a fullstack engineer @cogartstudio
+- 🔭 Currently working as a fullstack engineer [@cogartstudio]
 - 🌱 I’m currently leveling up my skills as much as possible 🤣
 - 👯 I’m looking to collaborate with other Software Engineers, possibly begin a startup
 - 🥅 Goals: Contribute more to Open Source projects and gain more working experience
@@ -75,3 +75,4 @@
 [instagram]: https://www.instagram.com/iamsemijacks
 [linkedin]: https://www.linkedin.com/in/semijacks
 [manutd]: https://en.wikipedia.org/wiki/Manchester_United_F.C.
+[@cogartstudio]: https://github.com/cogartstudio
